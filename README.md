@@ -1,5 +1,6 @@
-# 
+# AwesomeProject
 
+https://reactnative.dev/docs/environment-setup
 
 == We're Using GitHub Under Protest ==
 
