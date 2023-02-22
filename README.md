@@ -8,6 +8,8 @@ https://developer.android.com/studio
 
 https://reactnative.dev/docs/environment-setup
 
+Check out App.js here in the code files for the computer algorithm code.
+
 ![p](https://github.com/bell-kevin/GoalSettingApp/blob/main/screenShots/Capture.PNG)
 
 == We're Using GitHub Under Protest ==
