@@ -1,6 +1,8 @@
 # Goal Setting Application
 
-React Native Goal Setting App. Create one app. for both Android and iOS (Apple) using one computer alorithm. You'll need Visual Studio Code and Android Studio to get started:
+React Native goal setting app. 
+
+Create one app. for both Android and iOS (Apple) using one computer alorithm. You'll need Visual Studio Code and Android Studio to get started:
 
 https://code.visualstudio.com/download
 
