@@ -10,6 +10,8 @@ https://developer.android.com/studio
 
 https://reactnative.dev/docs/environment-setup
 
+https://reactnative.dev/docs/components-and-apis
+
 Check out App.js here in the code files for the computer algorithm code.
 
 ![p](https://github.com/bell-kevin/GoalSettingApp/blob/main/screenShots/Capture.PNG)
