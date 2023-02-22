@@ -1,5 +1,9 @@
 # AwesomeProject
 
+https://code.visualstudio.com/download
+
+https://developer.android.com/studio
+
 https://reactnative.dev/docs/environment-setup
 
 ![p](https://github.com/bell-kevin/GoalSettingApp/blob/main/screenShots/Capture.PNG)
