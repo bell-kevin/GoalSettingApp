@@ -2,6 +2,8 @@
 
 https://reactnative.dev/docs/environment-setup
 
+![p](https://github.com/bell-kevin/GoalSettingApp/blob/main/screenShots/Capture.PNG)
+
 == We're Using GitHub Under Protest ==
 
 This project is currently hosted on GitHub.  This is not ideal; GitHub is a
