@@ -2,15 +2,17 @@
 
 React Native goal setting app. 
 
-Create one app. for both Android and iOS (Apple) using one computer alorithm. You'll need Visual Studio Code, Android Studio, and Xcode to get started:
+Create one app. for both Android and iOS (Apple) using one computer alorithm. You'll need Visual Studio Code and Android Studio to get started:
 
 https://code.visualstudio.com/download
 
 https://developer.android.com/studio
 
+If you want to see how your app. will look on iOS (Apple) devices, you'll need Xcode from the Apple app. store:
+
 https://developer.apple.com/xcode/
 
-To run Xcode, you'll need an Apple computer.
+To run Xcode app, you'll need an Apple computer.
 
 https://reactnative.dev/docs/environment-setup
 
