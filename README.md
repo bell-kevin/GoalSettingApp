@@ -1,4 +1,4 @@
-# AwesomeProject
+# Goal Setting Application
 
 https://code.visualstudio.com/download
 
