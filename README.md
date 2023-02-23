@@ -12,7 +12,7 @@ If you want to see how your app. will look on iOS (Apple) devices, you'll need X
 
 https://developer.apple.com/xcode/
 
-To run the Xcode app, you'll need an Apple computer.
+To run the Xcode app, you'll need a fairly new Apple computer.
 
 https://reactnative.dev/docs/environment-setup
 
