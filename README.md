@@ -20,7 +20,7 @@ https://reactnative.dev/docs/components-and-apis
 
 Check out App.js here in the code files for the computer algorithm code.
 
-![p](https://github.com/bell-kevin/GoalSettingApp/blob/main/screenShots/Capture.PNG)
+![p](https://github.com/bell-kevin/GoalSettingApp/blob/main/screenShots/2.PNG)
 
 ![p](https://github.com/bell-kevin/GoalSettingApp/blob/main/screenShots/1.PNG)
 
