@@ -23,7 +23,7 @@ export default function App() {
         <Button title="Add goal" onPress={addGoalHandler} />
       </View>
       <View style={styles.goalsContainer}>
-        <ScrollView>
+        <ScrollView alwaysBounceVertical={true}>
           {courseGoals.map((goal, index) =>
             <View style={styles.goalItem} key={index}>
               <Text style={styles.goalText}>
@@ -60,7 +60,7 @@ const styles = StyleSheet.create({
     padding: 8
   },
   goalsContainer: {
-    flex: 6,
+    flex: 9,
   },
   goalItem: {
     margin: 8,
