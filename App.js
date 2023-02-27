@@ -60,7 +60,7 @@ const styles = StyleSheet.create({
     padding: 8
   },
   goalsContainer: {
-    flex: 9,
+    flex: 8,
   },
   goalItem: {
     margin: 8,
